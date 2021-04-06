@@ -20,8 +20,6 @@ python PyMantissa.py
 
 ## Contributing
 
----
-
 If you have suggestions for how Py.Mantissa could be improved, or want to report a bug, open an issue!
 We'd love all and any contributions.
 
@@ -34,8 +32,6 @@ Py.Mantissa's development depends on your contributions.
 If you depend on Py.Mantissa, remember to support the Py.Mantissa Software Foundation: https://www.pymantissa.com/fundraising/
 
 ## Group
-
----
 
 Group name: Grupo 1
 
